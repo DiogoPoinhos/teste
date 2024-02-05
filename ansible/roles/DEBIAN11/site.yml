@@ -1,0 +1,6 @@
+---
+
+- hosts: wazuh_agents
+  become: true
+  roles:
+    - role: DEBIAN11

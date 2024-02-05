@@ -1,0 +1,6 @@
+[all_in_one]
+34.32.10.65 ansible_ssh_user=dpoinhos
+
+
+[wazuh_agents]
+34.155.215.166 ansible_ssh_user=dpoinhos
